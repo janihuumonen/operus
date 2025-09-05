@@ -1,2 +1,2 @@
 # operus
-Ohjelmoinnin perusteet kurssi
+Ohjelmoinnin perusteet kurssitehtävät
